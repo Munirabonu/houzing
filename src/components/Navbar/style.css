@@ -47,4 +47,6 @@ img:hover {
 }
 .btn {
     padding: 10px 20px;
+     background-color: white;
+     border: none;
 }

@@ -1,0 +1,47 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: verdana;
+}
+
+.Navbar {
+    width: 100%;
+    height: 64px;
+    background: #0D263B;
+}
+
+.container {
+    width: 1180px;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.links {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    color: #fff;
+    font-size: 14px;
+    letter-spacing: 2px;
+}
+
+a {
+    color: #fff;
+    cursor: pointer;
+}
+
+a:hover {
+    color: lightslategray;
+    transition: all 0.3s ease-out;
+}
+
+img:hover {
+    cursor: pointer;
+}

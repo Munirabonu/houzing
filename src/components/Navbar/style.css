@@ -45,3 +45,6 @@ a:hover {
 img:hover {
     cursor: pointer;
 }
+.btn {
+    padding: 10px 20px;
+}

@@ -20,7 +20,7 @@ export default function Navbar(params) {
                             <a>Contacts</a>
                         </li>
                     </ul>
-                    <button>sign in</button>
+                    <button className="btn">sign in</button>
                 </div>
             </div>
         </>
